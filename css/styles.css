@@ -9,6 +9,7 @@ p.intro{
 }
 
 img.intro{
-  text-align: center;
-  background-color: beige;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
